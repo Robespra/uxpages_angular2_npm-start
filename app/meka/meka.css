@@ -1,0 +1,16 @@
+.meka{
+    height: 50%;
+    width: 100%
+}
+
+.meka-row{
+    padding-top: 7%;
+}
+
+.text_center {
+    text-align: center;
+  }
+
+   .text_right {
+    text-align: right;
+  }
